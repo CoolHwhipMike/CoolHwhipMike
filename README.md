@@ -17,41 +17,26 @@ This account is the "fun" one since CoolHwhipMike is a silly name that I've used
 
 Take a look at my mfjurbala Github, YouTube, and social media for more tech/development based educational material.
 
-## What's my setup?
+## What's my setup? (it's not special or interesting)
 ### Hardware
 #### Desktop
 - Asus ROG Strix X570-E
 - Radeon RX480 (Overdue to be upgraded)
 - AMD Ryzen 7 3700X
 - 16Gb EvoX RAM
-- Some 750W PSU
 - Corsair 5000D Airflow
 - Stock AMD CPU cooler
-- 4 mismatched case fans
-- Random SSD's and HDD's
+- Some Corsair QL120 RGB fans
 
 #### Laptop
 - Lenovo X220 from 2016
-- 256Gb SSD
-
-#### Peripherals
-- Some generic mouse
-- Royal Kludge RK100
-- Gateron Blue switches
-- Imitation Pudding Keycaps
-- Razer Seiren Mini
-- 2 LCD TV's as monitors
-- Cheap generic headphones
 
 ### Software
 #### Operating Systems
 - Windows 11 (Desktop)
 - FreeBSD 13-Release (Laptop)
-- FreeBSD 13.1-Stable (VM on Desktop)
-
-#### Editors
-VS Code
-
+- FreeBSD 13.1-Stable (VM on Desktop for "development")
+- 
 <!---
 CoolHwhipMike/CoolHwhipMike is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
